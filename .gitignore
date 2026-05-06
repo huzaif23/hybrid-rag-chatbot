@@ -1,0 +1,4 @@
+.env
+@backend/static/
+@backend/user_feedback.jsonl
+@backend/verified_dataset.jsonl
